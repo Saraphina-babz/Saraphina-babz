@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Saraphina-babz
+-    deleted old acct "Saraphina1"
 - 👀 I’m interested in Web development
 - 🌱 I’m currently a Frontend Developer
 - 💞️ I’m looking to collaborate with other developer
